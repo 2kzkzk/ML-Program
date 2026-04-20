@@ -24,7 +24,7 @@
 
 ## 二、Pipeline 1 - Data Preprocessing
 
-### 1. Spider Experiment (HYR)
+### 1. Spider Experiment 
 
 | 编号 | 内容 | 说明 |
 |---|---|---|
@@ -71,7 +71,7 @@
 
 ## 三、Pipeline 2 – Classification & Regression
 
-### 1. SVM Experiment (CC)
+### 1. SVM Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -83,7 +83,7 @@
 | 1.6 | SVR for Regression (boston, scatter curve plot) |
 | 1.7* | Explore SVR with feature selection, feature extraction, different kernels and grid searching (boston, scatter curve plot) |
 
-### 2. ANN Experiment (DXD)
+### 2. ANN Experiment
 
 | 编号 | 内容 |
 |---|---|
@@ -98,7 +98,7 @@
 
 ## 四、Pipeline 3 – Ensemble Learning
 
-### 1. Random Forest Experiment (CC)
+### 1. Random Forest Experiment
 
 | 编号 | 内容 |
 |---|---|
@@ -108,7 +108,7 @@
 | 1.4 | RF for Regression (boston, scatter curve plot) |
 | 1.5* | Explore RF with different parameters (boston, scatter curve plot) |
 
-### 2. XGBoost Experiment (ZJC)
+### 2. XGBoost Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -118,7 +118,7 @@
 | 2.4 | XGBoost for Regression (boston, scatter curve plot) |
 | 2.5* | Explore XGBoost with different parameters (boston, scatter curve plot) |
 
-### 3. Kaggle Experiment (DXD)
+### 3. Kaggle Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -132,7 +132,7 @@
 
 ## 五、Pipeline 4 – Clustering
 
-### 1. K-means Clustering Experiment (ZJC)
+### 1. K-means Clustering Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -140,7 +140,7 @@
 | 1.2 | K-means for clustering with visualization (iris, scatter plot by PCA each iter, mark the center) |
 | 1.3 | Explore K-means with different parameters (K, iters, assessed by DBI) |
 
-### 2. Affinity Propagation Clustering Experiment (ZJC)
+### 2. Affinity Propagation Clustering Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -148,7 +148,7 @@
 | 2.2 | AP for clustering with visualization (iris, scatter plot by t-SNE each iter, mark the center) |
 | 2.3 | Explore AP with different parameters (p, iters, assessed by DBI with KM) |
 
-### 3. DBSCAN Experiment (LSH)
+### 3. DBSCAN Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -156,7 +156,7 @@
 | 3.2 | DBSCAN for clustering with visualization (iris, scatter plot by PCA, mark the core) |
 | 3.3 | Explore DBSCAN with different parameters (min_samples and eps, assessed by DBI with KM) |
 
-### 4. Agglomerative Clustering Experiment (WH)
+### 4. Agglomerative Clustering Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -168,7 +168,7 @@
 
 ## 六、Pipeline 5 – Optimization
 
-### 1. Particle Swarm Optimization Experiment (CC)
+### 1. Particle Swarm Optimization Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -176,7 +176,7 @@
 | 1.2 | PSO for House price prediction with feature selection & parameter optimization (curve plot each iter, compare results before optimization) |
 | 1.3 | Explore PSO with different parameters (iters, weights) |
 
-### 2. Genetic Algorithm Experiment (CC & HYR)
+### 2. Genetic Algorithm Experiment 
 
 | 编号 | 内容 |
 |---|---|
@@ -185,7 +185,7 @@
 | 2.3 | GA for TSP (curve plot each iter, visualization of best solution) |
 | 2.4 | Explore GA with different parameters (iters, different selector, crossover) |
 
-### 3. PPO Experiment (ZJC)
+### 3. PPO Experiment 
 
 | 编号 | 内容 |
 |---|---|
